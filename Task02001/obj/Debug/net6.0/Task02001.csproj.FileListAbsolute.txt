@@ -1,0 +1,15 @@
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\bin\Debug\net6.0\Task02001.exe
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\bin\Debug\net6.0\Task02001.deps.json
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\bin\Debug\net6.0\Task02001.runtimeconfig.json
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\bin\Debug\net6.0\Task02001.dll
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\bin\Debug\net6.0\Task02001.pdb
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\obj\Debug\net6.0\Task02001.csproj.AssemblyReference.cache
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\obj\Debug\net6.0\Task02001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\obj\Debug\net6.0\Task02001.AssemblyInfoInputs.cache
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\obj\Debug\net6.0\Task02001.AssemblyInfo.cs
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\obj\Debug\net6.0\Task02001.csproj.CoreCompileInputs.cache
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\obj\Debug\net6.0\Task02001.dll
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\obj\Debug\net6.0\refint\Task02001.dll
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\obj\Debug\net6.0\Task02001.pdb
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\obj\Debug\net6.0\Task02001.genruntimeconfig.cache
+D:\Documents\Learning\IT\3 C#\HomeTask_01\Task02001\obj\Debug\net6.0\ref\Task02001.dll
