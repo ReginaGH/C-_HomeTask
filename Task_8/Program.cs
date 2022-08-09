@@ -3,13 +3,10 @@
 
 Console.WriteLine("Привет, напиши число ");
 int N = Convert.ToInt32(Console.ReadLine());
-int A =0;
-int count = A;
-if (%2==0)
+int count = 1;
+while(count<N)
     {    
-    while(count<N)
-    {
-    Console.WriteLine(Count);
-    Count=(count+1);    
+    if (count%2==0)
+    Console.WriteLine(count);
+    count++;    
     }
-    };
